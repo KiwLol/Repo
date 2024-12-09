@@ -1,5 +1,5 @@
 
-# Project Title
+# GitHub for Developers Course
 
 A brief description of what this project does and who it's for
 
@@ -23,4 +23,3 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
